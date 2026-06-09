@@ -42,8 +42,8 @@
 			</IPropertyContainer>
 			</_properties>
 			<_name type="a">Gate</_name>
-			<_modifiedTimeWeak type="a">6.2.2026::9:55:54</_modifiedTimeWeak>
-			<_modifiedTime type="a">6.2.2026::9:55:54</_modifiedTime>
+			<_modifiedTimeWeak type="a">6.9.2026::9:53:29</_modifiedTimeWeak>
+			<_modifiedTime type="a">6.9.2026::9:53:29</_modifiedTime>
 			<_UserColors type="w">
 				<IRPYRawContainer type="e">
 					<value>16777215</value>
@@ -82,7 +82,7 @@
 				<IRPYRawContainer type="e">
 					<IMultiplicityItem type="e">
 						<_name type="a">1</_name>
-						<_count type="a">-1</_count>
+						<_count type="a">0</_count>
 					</IMultiplicityItem>
 					
 					<IMultiplicityItem type="e">
@@ -133,8 +133,8 @@
 			<_myState type="a">8192</_myState>
 			<_name type="a">Structure1</_name>
 			<_modifiedTimeWeak type="a">1.2.1990::0:0:0</_modifiedTimeWeak>
-			<_modifiedTime type="a">6.2.2026::9:55:54</_modifiedTime>
-			<_lastModifiedTime type="a">6.2.2026::9:55:54</_lastModifiedTime>
+			<_modifiedTime type="a">6.9.2026::9:53:29</_modifiedTime>
+			<_lastModifiedTime type="a">6.9.2026::9:53:29</_lastModifiedTime>
 			<m_hReferencedDiagram type="r">
 				<IHandle type="e">
 				</IHandle>
