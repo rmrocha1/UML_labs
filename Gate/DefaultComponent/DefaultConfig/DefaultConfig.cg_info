@@ -1,0 +1,170 @@
+I-Logix-RPY-Archive version 8.15.0 * 202411191641
+
+- m_fileModifyTime = { IRPYRawContainer 
+	- size = 28;
+	- value = "DefaultComponent/DefaultConfig/Controller.cpp" 6.9.2026::17:9:59
+	"DefaultComponent/DefaultConfig/Controller.h" 6.9.2026::16:43:30
+	"DefaultComponent/DefaultConfig/Default.cpp" 6.9.2026::16:50:5
+	"DefaultComponent/DefaultConfig/Default.h" 6.9.2026::16:52:19
+	"DefaultComponent/DefaultConfig/Detector.cpp" 6.9.2026::16:59:58
+	"DefaultComponent/DefaultConfig/Detector.h" 6.9.2026::16:59:58
+	"DefaultComponent/DefaultConfig/Display.cpp" 6.9.2026::16:34:50
+	"DefaultComponent/DefaultConfig/Display.h" 6.9.2026::16:34:50
+	"DefaultComponent/DefaultConfig/Drive.cpp" 6.9.2026::16:53:50
+	"DefaultComponent/DefaultConfig/Drive.h" 6.9.2026::16:53:50
+	"DefaultComponent/DefaultConfig/Environment.cpp" 6.9.2026::16:34:50
+	"DefaultComponent/DefaultConfig/Environment.h" 6.9.2026::16:34:50
+	"DefaultComponent/DefaultConfig/Keyboard.cpp" 6.9.2026::16:34:50
+	"DefaultComponent/DefaultConfig/Keyboard.h" 6.9.2026::16:34:50
+	"DefaultComponent/DefaultConfig/Lamp.cpp" 6.9.2026::16:34:50
+	"DefaultComponent/DefaultConfig/Lamp.h" 6.9.2026::16:34:50
+	"DefaultComponent/DefaultConfig/Module.cpp" 6.9.2026::16:34:50
+	"DefaultComponent/DefaultConfig/Module.h" 6.9.2026::16:34:50
+	"DefaultComponent/DefaultConfig/Operator.cpp" 6.9.2026::16:34:50
+	"DefaultComponent/DefaultConfig/Operator.h" 6.9.2026::16:34:50
+	"DefaultComponent/DefaultConfig/Owner.cpp" 6.9.2026::16:34:50
+	"DefaultComponent/DefaultConfig/Owner.h" 6.9.2026::16:34:50
+	"DefaultComponent/DefaultConfig/Receiver.cpp" 6.9.2026::16:39:43
+	"DefaultComponent/DefaultConfig/Receiver.h" 6.9.2026::16:39:43
+	"DefaultComponent/DefaultConfig/Serviceman.cpp" 6.9.2026::16:34:50
+	"DefaultComponent/DefaultConfig/Serviceman.h" 6.9.2026::16:34:50
+	"DefaultComponent/DefaultConfig/object_1.cpp" 6.9.2026::16:34:50
+	"DefaultComponent/DefaultConfig/object_1.h" 6.9.2026::16:34:50
+	
+}
+- m_saveUnitAndOwnerSaveUnit = { IRPYRawContainer 
+	- size = 2;
+	- value = "GUID 095a4adc-e571-4615-ae44-731044caec32" "GUID 6ffd7291-ffec-454e-b965-ba930a3b5dcb"
+	"GUID 1973a180-f1c1-4e3e-8dad-b4f459e891b6" "GUID 6ffd7291-ffec-454e-b965-ba930a3b5dcb"
+	
+}
+- size = 16;
+- hElement = { IHandle 
+	- _m2Class = "IActor";
+	- _filename = ".\\..\\..\\Gate_rpy\\Default.sbsx";
+	- _subsystem = "Default";
+	- _name = "Owner";
+	- _id = GUID 153422ce-ac88-4f45-b902-8cdfb0211373;
+}
+- genTime = 6.9.2026::16:34:50;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\Gate_rpy\\Default.sbsx";
+	- _subsystem = "Default";
+	- _name = "Controller";
+	- _id = GUID b5989982-21a4-4816-b8c6-6d59bada1c8a;
+}
+- genTime = 6.9.2026::17:9:59;
+- hElement = { IHandle 
+	- _m2Class = "IActor";
+	- _filename = ".\\..\\..\\Gate_rpy\\Default.sbsx";
+	- _subsystem = "Default";
+	- _name = "Operator";
+	- _id = GUID 6564930d-3390-46b2-af1f-d556720772d0;
+}
+- genTime = 6.9.2026::16:34:50;
+- hElement = { IHandle 
+	- _m2Class = "IActor";
+	- _filename = ".\\..\\..\\Gate_rpy\\Default.sbsx";
+	- _subsystem = "Default";
+	- _name = "Environment";
+	- _id = GUID 2cf079bb-0c2c-4a79-ab09-8fe304d15ba5;
+}
+- genTime = 6.9.2026::16:34:50;
+- hElement = { IHandle 
+	- _m2Class = "ICodeGenConfigInfo";
+	- _filename = ".\\..\\..\\Gate_rpy\\DefaultComponent.cmpx";
+	- _name = "DefaultComponent\\DefaultConfig";
+	- _id = GUID 613b45ac-de5d-4653-b08d-40a597f9afd9;
+}
+- genTime = 6.9.2026::17:10:43;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\Gate_rpy\\Default.sbsx";
+	- _subsystem = "Default";
+	- _class = "Controller";
+	- _name = "object_0";
+	- _id = GUID 0e666e70-4514-4f75-8fb0-5e3baa92ecba;
+}
+- genTime = 6.9.2026::17:9:59;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\Gate_rpy\\Default.sbsx";
+	- _subsystem = "Default";
+	- _class = "TopLevel";
+	- _name = "object_1";
+	- _id = GUID d79216e0-f6b9-43a0-bb61-dcb96496501a;
+}
+- genTime = 6.9.2026::16:34:50;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\Gate_rpy\\Default.sbsx";
+	- _subsystem = "Default";
+	- _name = "Receiver";
+	- _id = GUID b3d20159-3676-46f8-9663-6c02b8aa1b4e;
+}
+- genTime = 6.9.2026::16:39:43;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\Gate_rpy\\Default.sbsx";
+	- _subsystem = "Default";
+	- _name = "Drive";
+	- _id = GUID 674b9370-d1d6-4123-b938-d02d63f66d4c;
+}
+- genTime = 6.9.2026::16:53:50;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\Gate_rpy\\Default.sbsx";
+	- _subsystem = "Default";
+	- _name = "Keyboard";
+	- _id = GUID 6a0d175f-ef5b-48d6-9675-6c8bb84b02e6;
+}
+- genTime = 6.9.2026::16:34:50;
+- hElement = { IHandle 
+	- _m2Class = "ISubsystem";
+	- _filename = ".\\..\\..\\Gate_rpy\\Default.sbsx";
+	- _name = "Default";
+	- _id = GUID 1973a180-f1c1-4e3e-8dad-b4f459e891b6;
+}
+- genTime = 6.9.2026::17:9:59;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\Gate_rpy\\Default.sbsx";
+	- _subsystem = "Default";
+	- _name = "Detector";
+	- _id = GUID 36e044a2-8988-4af1-9cfa-cf9ac5622f60;
+}
+- genTime = 6.9.2026::16:59:58;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\Gate_rpy\\Default.sbsx";
+	- _subsystem = "Default";
+	- _name = "Display";
+	- _id = GUID 18f9765c-d3fb-4f98-869a-5a3921c53a56;
+}
+- genTime = 6.9.2026::16:34:50;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\Gate_rpy\\Default.sbsx";
+	- _subsystem = "Default";
+	- _name = "Lamp";
+	- _id = GUID 77840d22-1a74-4e0d-b8b6-dd75dba5f079;
+}
+- genTime = 6.9.2026::16:50:5;
+- hElement = { IHandle 
+	- _m2Class = "IClass";
+	- _filename = ".\\..\\..\\Gate_rpy\\Default.sbsx";
+	- _subsystem = "Default";
+	- _name = "Module";
+	- _id = GUID 7ce0cd2a-458d-4cf1-b16e-2d59afa1825a;
+}
+- genTime = 6.9.2026::16:34:50;
+- hElement = { IHandle 
+	- _m2Class = "IActor";
+	- _filename = ".\\..\\..\\Gate_rpy\\Default.sbsx";
+	- _subsystem = "Default";
+	- _name = "Serviceman";
+	- _id = GUID 0f11b233-b226-4712-b585-e22c13317abb;
+}
+- genTime = 6.9.2026::16:34:50;
+
